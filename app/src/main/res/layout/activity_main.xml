@@ -27,7 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="@dimen/main_navigate_tab_bar_height"
         android:layout_alignParentBottom="true"
-        app:navigateTabTextSize="9sp"
+        app:navigateTabTextSize="15sp"
         app:containerId="@id/main_container"
         app:navigateTabSelectedTextColor="@color/colorPrimary"
         app:navigateTabTextColor="@color/tab_text_normal"/>
